@@ -1,0 +1,18 @@
+Exercițiul 1: Schimb Valutar Interactiv
+Cere utilizatorului o sumă în RON (număr întreg sau zecimal). Calculează valoarea în EUR folosind un curs fix de 4.97 și afișează rezultatul.
+
+Exercițiul 2: Dinamic String Slicing
+Cere utilizatorului să introducă un cuvânt la alegere. Extrage și afișează prima și ultima literă folosind indexarea.
+
+Exercițiul 3: Construirea unei liste de cumpărături
+Cere utilizatorului să introducă pe rând 3 produse pe care vrea să le cumpere. Salvează-le direct într-o listă și afișează lista finală.
+
+Exercițiul 4: Modificarea listei prin index ales
+Ai lista orase = ["București", "Cluj", "Timișoara"]. Cere utilizatorului un oraș nou și numărul indexului pe care vrea să îl înlocuiască (0, 1 sau 2). Executa inlocuirea.
+
+Exercițiul 5: Coada de așteptare
+Ai o listă inițială cu clienți: coada = ["Elena", "Andrei"]. Cere utilizatorului numele unui client nou. Adaugă-l la sfârșitul listei folosind și afișează noua lungime a listei.
+
+Exercițiul 6: Eliminare din listă
+Ai o listă de sarcini: taskuri = ["Curățenie", "Cumpărături", "Teme"]. Cere utilizatorului să specifice  sarcinia pe care a finalizat-o (0, 1 sau 2). Șterge acea sarcină din listă folosind și afișează elementul care a fost eliminat.
+
