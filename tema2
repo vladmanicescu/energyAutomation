@@ -1,0 +1,120 @@
+PYTHON EXERCISES – LISTS, TUPLES, DICTIONARIES, SETS, AND FLOW CONTROL
+
+Exercise 1 – Student Grades (Lists + Flow Control)
+
+grades = [7, 10, 9, 5, 8, 4, 10]
+
+Tasks: 1. Calculate the average grade. 2. Count how many grades are
+passing (>= 5). 3. Count how many grades are failing (< 5). 4. Print the
+highest and lowest grade. 5. Print all grades greater than the average.
+
+------------------------------------------------------------------------
+
+Exercise 2 – Shopping List (Lists + Loops)
+
+shopping = [“milk”, “bread”, “eggs”, “milk”, “cheese”, “bread”]
+
+Tasks: 1. Print all items. 2. Count how many times each item appears. 3.
+Remove duplicates. 4. Sort the list alphabetically. 5. Ask the user for
+an item and check if it exists in the list.
+
+------------------------------------------------------------------------
+
+Exercise 3 – Coordinates (Tuples)
+
+point = (10, 20)
+
+Tasks: 1. Print the x and y coordinates separately. 2. Create another
+point (15, 30). 3. Calculate the distance on each axis. 4. Determine
+which point has the larger x coordinate.
+
+Bonus: Store several points in a list and find the point with the
+highest y value.
+
+------------------------------------------------------------------------
+
+Exercise 4 – Employee Database (Dictionaries)
+
+employee = { “name”: “John”, “age”: 30, “department”: “IT”, “salary”:
+5000 }
+
+Tasks: 1. Print all keys. 2. Print all values. 3. Increase salary by
+10%. 4. Add a new field called “city”. 5. Check if “manager” exists as a
+key.
+
+------------------------------------------------------------------------
+
+Exercise 5 – Unique Visitors (Sets)
+
+visitors = [101, 102, 103, 101, 104, 102, 105]
+
+Tasks: 1. Convert the list to a set. 2. Print the number of unique
+visitors. 3. Check if visitor 103 exists. 4. Add visitor 106. 5. Remove
+visitor 101.
+
+------------------------------------------------------------------------
+
+Exercise 6 – Inventory Manager (Dictionary + Flow Control)
+
+inventory = { “apple”: 10, “banana”: 5, “orange”: 8 }
+
+Tasks: 1. Print all products and quantities. 2. Find products with
+quantity below 6. 3. Ask the user for a product name. 4. If it exists,
+print its quantity. 5. Otherwise print “Product not found”.
+
+------------------------------------------------------------------------
+
+Exercise 7 – Common Interests (Sets)
+
+alice = {“reading”, “gaming”, “swimming”} bob = {“gaming”, “cooking”,
+“swimming”}
+
+Tasks: 1. Find common hobbies. 2. Find hobbies only Alice has. 3. Find
+hobbies only Bob has. 4. Find all hobbies combined.
+
+------------------------------------------------------------------------
+
+Exercise 8 – Student Registry (List + Dictionary)
+
+students = [ {“name”: “Ana”, “grade”: 8}, {“name”: “John”, “grade”: 10},
+{“name”: “Maria”, “grade”: 6}, {“name”: “Alex”, “grade”: 4}]
+
+Tasks: 1. Print all student names. 2. Find the student with the highest
+grade. 3. Calculate the average grade. 4. Print only students who
+passed. 5. Print only students with grades above average.
+
+------------------------------------------------------------------------
+
+Exercise 9 – Movie Collection (Tuple + Dictionary)
+
+movies = { “Inception”: (2010, 8.8), “Interstellar”: (2014, 8.6), “The
+Matrix”: (1999, 8.7) }
+
+Tasks: 1. Print each movie and its details. 2. Find the highest-rated
+movie. 3. Print all movies released after 2005. 4. Calculate the average
+rating.
+
+------------------------------------------------------------------------
+
+Exercise 10 – Number Analyzer (Everything Together)
+
+numbers = [3, 7, 2, 7, 9, 2, 10, 3, 8]
+
+Tasks: 1. Remove duplicates using a set. 2. Convert the set back to a
+list. 3. Sort the list. 4. Create a dictionary where: - key = number -
+value = “even” or “odd” 5. Print all even numbers. 6. Print all odd
+numbers. 7. Store the smallest and largest numbers in a tuple. 8. Print
+the tuple.
+
+------------------------------------------------------------------------
+
+Challenge Exercise – Mini Library System
+
+books = [ {“title”: “Python Basics”, “author”: “John”, “available”:
+True}, {“title”: “Data Science”, “author”: “Anna”, “available”: False},
+{“title”: “Algorithms”, “author”: “Mike”, “available”: True}]
+
+Tasks: 1. Print all books. 2. Print only available books. 3. Count
+available books. 4. Search for a book by title. 5. If found: - print its
+details - allow the user to borrow it (set available to False) 6. Print
+the updated library.
